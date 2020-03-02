@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "meupp": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "meupp"
+    }
+  },
+  "defaultProject": "meupp",
+  "cli": {
+    "analytics": "6178f60e-b18b-4de5-9a21-c14c45202579"
+  }
 }
